@@ -33,9 +33,9 @@ jobs:
         with:
           source-directory: "output"
 
-          destination-github-username: ssumtimes
+          destination-github-username: ysk9926
 
-          destination-repository-name: FE
+          destination-repository-name: SsumTimes-FE
 
           user-email: ${{ secrets.EMAIL }}
 
